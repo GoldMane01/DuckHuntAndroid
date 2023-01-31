@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430760677991",
+    "project_id": "duckhunt-a8fe0",
+    "storage_bucket": "duckhunt-a8fe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430760677991:android:2fed76bcc5beb83a833ac2",
+        "android_client_info": {
+          "package_name": "com.example.duckhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430760677991-ghgudsumq3iv0co95r41vpoqek8bbg77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRYquAfuv-oS6zeGfnYnSoL1Z1TgEGjAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430760677991-ghgudsumq3iv0co95r41vpoqek8bbg77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
